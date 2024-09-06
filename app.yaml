@@ -367,3 +367,12 @@
   show_name: ''
   version: 49 (20463)
   x86: 0
+- all_version: 1
+  app_store: 0
+  arm: 1
+  name: HoudahSpot
+  path: ''
+  remark: ''
+  show_name: ''
+  version: 6.5.4
+  x86: 1
