@@ -102,3 +102,5 @@
 | CleanMyMac-MAS | ✅ | ✅ | ✅ | ✅ | 不包括状态栏按钮 |
 | Reveal | 49 (20463) |  | ✅ |  |  |
 | HoudahSpot | ✅ |  | ✅ | ✅ |  |
+| Focus | ✅ |  | ✅ | ✅ | https://heyfocus.com |
+| SimpleMind | ✅ | ✅ | ✅ | ✅ | 思维导图软件 |

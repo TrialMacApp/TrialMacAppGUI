@@ -376,3 +376,21 @@
   show_name: ''
   version: 6.5.4
   x86: 1
+- all_version: 1
+  app_store: 0
+  arm: 1
+  name: Focus
+  path: ''
+  remark: 'https://heyfocus.com'
+  show_name: ''
+  version: 2.0.8
+  x86: 1
+- all_version: 1
+  app_store: 1
+  arm: 1
+  name: SimpleMind
+  path: ''
+  remark: '思维导图软件'
+  show_name: ''
+  version: 2.4.1
+  x86: 1
