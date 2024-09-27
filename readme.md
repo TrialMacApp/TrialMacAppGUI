@@ -73,7 +73,7 @@
 | Sketch | ✅ | ✅ | ✅ | ✅ |  |
 | Omi录屏专家 | ✅ | ✅ | ✅ | ✅ |  |
 | CleanShot X | 4.7 |  | ✅ |  |  |
-| Aldente Pro | 1.26.1 |  | ✅ |  | 暂停支持 |
+| Aldente Pro | 1.28.4 |  | ✅ |  |  |
 | Table Plus | 6.0.4 |  | ✅ |  | 暂停支持 |
 | Doppler | ✅ |  | ✅ | ✅ |  |
 | Text Scanner | 1.7.5 | ✅ | ✅ |  | 终端执行其二进制文件 |
@@ -83,7 +83,7 @@
 | Downie 4 | ✅ |  | ✅ | ✅ |  |
 | Typora | ✅ |  | ✅ | ✅ |  |
 | Stash | 2.6.2 |  | ✅ |  |  |
-| App Cleaner | 8.3.1 |  | ✅ |  |  |
+| App Cleaner | 8.4.1 |  | ✅ |  |  |
 | Hype4 | ✅ | ✅ | ✅ | ✅ |  |
 | Infuse | ✅ | ✅ | ✅ | ✅ |  |
 | Kaleidoscope | ✅ |  | ✅ | ✅ |  |

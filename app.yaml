@@ -120,9 +120,9 @@
   arm: 1
   name: Aldente Pro
   path: ''
-  remark: 暂停支持
+  remark: ''
   show_name: ''
-  version: 1.26.1
+  version: 1.28.4
   x86: 0
 - all_version: 0
   app_store: 0
@@ -212,7 +212,7 @@
   path: ''
   remark: ''
   show_name: ''
-  version: 8.3.1
+  version: 8.4.1
   x86: 0
 - all_version: 1
   app_store: 1
