@@ -104,3 +104,4 @@
 | HoudahSpot | ✅ |  | ✅ | ✅ |  |
 | Focus | ✅ |  | ✅ | ✅ | https://heyfocus.com |
 | SimpleMind | ✅ | ✅ | ✅ | ✅ | 思维导图软件 |
+| Flacbox | ✅ | ✅ | ✅ | ✅ | 音乐软件 |

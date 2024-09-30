@@ -394,3 +394,12 @@
   show_name: ''
   version: 2.4.1
   x86: 1
+- all_version: 1
+  app_store: 1
+  arm: 1
+  name: Flacbox
+  path: ''
+  remark: '音乐软件'
+  show_name: ''
+  version: '5.8'
+  x86: 1
