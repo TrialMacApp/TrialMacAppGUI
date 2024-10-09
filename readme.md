@@ -82,7 +82,7 @@
 | PlistEdit Pro | ✅ |  | ✅ | ✅ |  |
 | Downie 4 | ✅ |  | ✅ | ✅ |  |
 | Typora | ✅ |  | ✅ | ✅ |  |
-| Stash | 2.6.2 |  | ✅ |  |  |
+| Stash | 2.6.4 |  | ✅ |  |  |
 | App Cleaner | 8.4.1 |  | ✅ |  |  |
 | Hype4 | ✅ | ✅ | ✅ | ✅ |  |
 | Infuse | ✅ | ✅ | ✅ | ✅ |  |
@@ -105,3 +105,4 @@
 | Focus | ✅ |  | ✅ | ✅ | https://heyfocus.com |
 | SimpleMind | ✅ | ✅ | ✅ | ✅ | 思维导图软件 |
 | Flacbox | ✅ | ✅ | ✅ | ✅ | 音乐软件 |
+| PDF Editor | ✅ | ✅ | ✅ | ✅ | 只能脚本激活 |
