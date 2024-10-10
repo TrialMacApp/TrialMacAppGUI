@@ -30,7 +30,7 @@
 4.  打开 `Finder` 把上面解压出来的 **文件夹** ，拖动到 `终端` 里，然后按下回车键
 5.  输入 `./TrialMacApp` 回车，开始使用
 
-## 新上线了图形化程序，Releases中下载
+## Releases下载GUI程序，命令行支持所有APP试用
 
 > 命令行保持最新，GUI程序不定时更新
 
@@ -54,7 +54,9 @@
 
 ## 支持的 app 如下
 
-> 版本是 ✅ 则支持所有版本 
+> ARM 一定支持的，因为我本身就是ARM机器
+
+> 版本是 ✅ 则支持所有版本，支持所有版本的则支持X86
 
 > MAS = Mac App Store （代表是否从MAS下载的）
 
@@ -105,4 +107,5 @@
 | Focus | ✅ |  | ✅ | ✅ | https://heyfocus.com |
 | SimpleMind | ✅ | ✅ | ✅ | ✅ | 思维导图软件 |
 | Flacbox | ✅ | ✅ | ✅ | ✅ | 音乐软件 |
-| PDF Editor | ✅ | ✅ | ✅ | ✅ | 只能脚本激活 |
+| PDF Editor | ✅ | ✅ | ✅ | ✅ | https://apps.apple.com/gb/app/pdf-editor-for-adobe-pdf-file/id6469578160 |
+| Notebooks | ✅ |  | ✅ | ✅ | https://www.notebooksapp.com/mac/ |

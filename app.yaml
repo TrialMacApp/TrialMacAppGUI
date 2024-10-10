@@ -408,7 +408,16 @@
   arm: 1
   name: PDF Editor
   path: ''
-  remark: '只能脚本激活'
+  remark: 'https://apps.apple.com/gb/app/pdf-editor-for-adobe-pdf-file/id6469578160'
   show_name: ''
   version: 1.4.2
+  x86: 1
+- all_version: 1
+  app_store: 0
+  arm: 1
+  name: Notebooks
+  path: ''
+  remark: 'https://www.notebooksapp.com/mac/'
+  show_name: ''
+  version: 3.6.1
   x86: 1
