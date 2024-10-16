@@ -60,55 +60,55 @@
 
 > MAS = Mac App Store （代表是否从MAS下载的）
 
-| 名称                 | 版本     | MAS |  ARM | X86 |备注             |
-| -------------------- | -------- | --- | --- | --- | ---------------- |
-| Macs Fan Control | 1.5.16 |  | ✅ |  |  |
-| Things3 | ✅ |  | ✅ | ✅ |  |
-| Xnip | ✅ | ✅ | ✅ | ✅ |  |
-| Transmit | ✅ | ✅ | ✅ | ✅ |  |
-| BuhoCleaner | ✅ |  | ✅ | ✅ |  |
-| Image2Icon | 2.18 | ✅ | ✅ |  |  |
-| FileZilla Pro | 3.66.5 | ✅ | ✅ |  |  |
-| menubarx | ✅ | ✅ | ✅ | ✅ |  |
-| SQLPro Studio | ✅ | ✅ | ✅ | ✅ |  |
-| Texifier | 1.9.27 |  | ✅ |  |  |
-| Sketch | ✅ | ✅ | ✅ | ✅ |  |
-| Omi录屏专家 | ✅ | ✅ | ✅ | ✅ |  |
-| CleanShot X | 4.7 |  | ✅ |  |  |
-| Aldente Pro | 1.28.4 |  | ✅ |  |  |
-| Table Plus | 6.0.4 |  | ✅ |  | 暂停支持 |
-| Doppler | ✅ |  | ✅ | ✅ |  |
-| Text Scanner | 1.7.5 | ✅ | ✅ |  | 终端执行其二进制文件 |
-| 欧陆词典 | ✅ |  | ✅ | ✅ |  |
-| Blocs | ✅ |  | ✅ | ✅ |  |
-| PlistEdit Pro | ✅ |  | ✅ | ✅ |  |
-| Downie 4 | ✅ |  | ✅ | ✅ |  |
-| Typora | ✅ |  | ✅ | ✅ |  |
-| Stash | 2.6.4 |  | ✅ |  |  |
-| App Cleaner | 8.4.1 |  | ✅ |  |  |
-| Hype4 | ✅ | ✅ | ✅ | ✅ |  |
-| Infuse | ✅ | ✅ | ✅ | ✅ |  |
-| Kaleidoscope | ✅ |  | ✅ | ✅ |  |
-| Pixelmator Pro Trial | ✅ |  | ✅ | ✅ |  |
-| Proxyman | 5.2.0 |  | ✅ |  |  |
-| ServerCat | 1.12 | ✅ | ✅ |  |  |
-| Core Tunnel | ✅ | ✅ | ✅ | ✅ |  |
-| Navicat Premium | ✅ | ✅ | ✅ | ✅ | 借鉴 Qiuchenly |
-| Permute 3 | ✅ |  | ✅ | ✅ |  |
-| Eon | ✅ |  | ✅ | ✅ |  |
-| UctoX 2 | ✅ |  | ✅ | ✅ |  |
-| Rottenwood | ✅ |  | ✅ | ✅ |  |
-| Judo | ✅ | ✅ | ✅ | ✅ | 免登录 有几个功能不能用 |
-| Querious | ✅ |  | ✅ | ✅ |  |
-| ForkLift | ✅ |  | ✅ | ✅ |  |
-| CleanMyMac-MAS | ✅ | ✅ | ✅ | ✅ | 不包括状态栏按钮 |
-| Reveal | 49 (20463) |  | ✅ |  |  |
-| HoudahSpot | ✅ |  | ✅ | ✅ |  |
-| Focus | ✅ |  | ✅ | ✅ | https://heyfocus.com |
-| SimpleMind | ✅ | ✅ | ✅ | ✅ | 思维导图软件 |
-| Flacbox | ✅ | ✅ | ✅ | ✅ | 音乐软件 |
-| PDF Editor | ✅ | ✅ | ✅ | ✅ | https://apps.apple.com/gb/app/pdf-editor-for-adobe-pdf-file/id6469578160 |
-| Notebooks | ✅ |  | ✅ | ✅ | https://www.notebooksapp.com/mac/ |
-| Final Cut Pro Trial | ✅ |  | ✅ | ✅ | 每次打开都会提示购买，忽略就行 |
-| Mp3tag | ✅ |  | ✅ |  | 输入任意激活信息点激活 |
-| Ulysses | ✅ | ✅ | ✅ | ✅ |  |
+| 序号 | 名称                 | 版本     | MAS |  ARM | X86 |备注             |
+| -- | -------------------- | -------- | --- | --- | --- | ---------------- |
+| 1 | Macs Fan Control | 1.5.16 |  | ✅ |  |  |
+| 2 | Things3 | ✅ |  | ✅ | ✅ |  |
+| 3 | Xnip | ✅ | ✅ | ✅ | ✅ |  |
+| 4 | Transmit | ✅ | ✅ | ✅ | ✅ |  |
+| 5 | BuhoCleaner | ✅ |  | ✅ | ✅ |  |
+| 6 | Image2Icon | 2.18 | ✅ | ✅ |  |  |
+| 7 | FileZilla Pro | 3.66.5 | ✅ | ✅ |  |  |
+| 8 | menubarx | ✅ | ✅ | ✅ | ✅ |  |
+| 9 | SQLPro Studio | ✅ | ✅ | ✅ | ✅ |  |
+| 10 | Texifier | 1.9.27 |  | ✅ |  |  |
+| 11 | Sketch | ✅ | ✅ | ✅ | ✅ |  |
+| 12 | Omi录屏专家 | ✅ | ✅ | ✅ | ✅ |  |
+| 13 | CleanShot X | 4.7 |  | ✅ |  |  |
+| 14 | Aldente Pro | 1.28.4 |  | ✅ |  |  |
+| 15 | Table Plus | 6.0.4 |  | ✅ |  | 暂停支持 |
+| 16 | Doppler | ✅ |  | ✅ | ✅ |  |
+| 17 | Text Scanner | 1.7.5 | ✅ | ✅ |  | 终端执行其二进制文件 |
+| 18 | 欧陆词典 | ✅ |  | ✅ | ✅ |  |
+| 19 | Blocs | ✅ |  | ✅ | ✅ |  |
+| 20 | PlistEdit Pro | ✅ |  | ✅ | ✅ |  |
+| 21 | Downie 4 | ✅ |  | ✅ | ✅ |  |
+| 22 | Typora | ✅ |  | ✅ | ✅ |  |
+| 23 | Stash | 2.6.4 |  | ✅ |  |  |
+| 24 | App Cleaner | 8.4.1 |  | ✅ |  |  |
+| 25 | Hype4 | ✅ | ✅ | ✅ | ✅ |  |
+| 26 | Infuse | ✅ | ✅ | ✅ | ✅ |  |
+| 27 | Kaleidoscope | ✅ |  | ✅ | ✅ |  |
+| 28 | Pixelmator Pro Trial | ✅ |  | ✅ | ✅ |  |
+| 29 | Proxyman | 5.2.0 |  | ✅ |  |  |
+| 30 | ServerCat | 1.12 | ✅ | ✅ |  |  |
+| 31 | Core Tunnel | ✅ | ✅ | ✅ | ✅ |  |
+| 32 | Navicat Premium | ✅ | ✅ | ✅ | ✅ | 借鉴 Qiuchenly |
+| 33 | Permute 3 | ✅ |  | ✅ | ✅ |  |
+| 34 | Eon | ✅ |  | ✅ | ✅ |  |
+| 35 | UctoX 2 | ✅ |  | ✅ | ✅ |  |
+| 36 | Rottenwood | ✅ |  | ✅ | ✅ |  |
+| 37 | Judo | ✅ | ✅ | ✅ | ✅ | 免登录 有几个功能不能用 |
+| 38 | Querious | ✅ |  | ✅ | ✅ |  |
+| 39 | ForkLift | ✅ |  | ✅ | ✅ |  |
+| 40 | CleanMyMac-MAS | ✅ | ✅ | ✅ | ✅ | 不包括状态栏按钮 |
+| 41 | Reveal | 49 (20463) |  | ✅ |  |  |
+| 42 | HoudahSpot | ✅ |  | ✅ | ✅ |  |
+| 43 | Focus | ✅ |  | ✅ | ✅ | https://heyfocus.com |
+| 44 | SimpleMind | ✅ | ✅ | ✅ | ✅ | 思维导图软件 |
+| 45 | Flacbox | ✅ | ✅ | ✅ | ✅ | 音乐软件 |
+| 46 | PDF Editor | ✅ | ✅ | ✅ | ✅ | https://apps.apple.com/gb/app/pdf-editor-for-adobe-pdf-file/id6469578160 |
+| 47 | Notebooks | ✅ |  | ✅ | ✅ | https://www.notebooksapp.com/mac/ |
+| 48 | Final Cut Pro Trial | ✅ |  | ✅ | ✅ | 每次打开都会提示购买，忽略就行 |
+| 49 | Mp3tag | ✅ |  | ✅ |  | 输入任意激活信息点激活 |
+| 50 | Ulysses | ✅ | ✅ | ✅ | ✅ |  |
