@@ -421,3 +421,30 @@
   show_name: ''
   version: 3.6.1
   x86: 1
+- all_version: 1
+  app_store: 0
+  arm: 1
+  name: Final Cut Pro Trial
+  path: ''
+  remark: '每次打开都会提示购买，忽略就行'
+  show_name: ''
+  version: 10.8.1
+  x86: 1
+- all_version: 1
+  app_store: 0
+  arm: 1
+  name: Mp3tag
+  path: ''
+  remark: '输入任意激活信息点激活'
+  show_name: ''
+  version: 1.8.25
+  x86: 0
+- all_version: 1
+  app_store: 1
+  arm: 1
+  name: Ulysses
+  path: ''
+  remark: ''
+  show_name: ''
+  version: 35.4
+  x86: 1

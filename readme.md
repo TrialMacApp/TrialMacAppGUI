@@ -109,3 +109,6 @@
 | Flacbox | ✅ | ✅ | ✅ | ✅ | 音乐软件 |
 | PDF Editor | ✅ | ✅ | ✅ | ✅ | https://apps.apple.com/gb/app/pdf-editor-for-adobe-pdf-file/id6469578160 |
 | Notebooks | ✅ |  | ✅ | ✅ | https://www.notebooksapp.com/mac/ |
+| Final Cut Pro Trial | ✅ |  | ✅ | ✅ | 每次打开都会提示购买，忽略就行 |
+| Mp3tag | ✅ |  | ✅ |  | 输入任意激活信息点激活 |
+| Ulysses | ✅ | ✅ | ✅ | ✅ |  |
