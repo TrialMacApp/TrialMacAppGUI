@@ -8,7 +8,8 @@
     "remark": "",
     "show_name": "",
     "version": "1.5.16",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "com.crystalidea.macsfancontrol"
   },
   {
     "all_version": 1,
@@ -19,7 +20,8 @@
     "remark": "",
     "show_name": "",
     "version": "3.19.6",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.culturedcode.ThingsMac"
   },
   {
     "all_version": 1,
@@ -30,7 +32,8 @@
     "remark": "",
     "show_name": "",
     "version": "2.2.3",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.zzd.Xnip"
   },
   {
     "all_version": 1,
@@ -41,7 +44,8 @@
     "remark": "",
     "show_name": "",
     "version": "5.10.4",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.panic.transmit.mas"
   },
   {
     "all_version": 1,
@@ -52,7 +56,8 @@
     "remark": "",
     "show_name": "",
     "version": "1.10.4",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.drbuho.BuhoCleaner"
   },
   {
     "all_version": 0,
@@ -63,7 +68,8 @@
     "remark": "",
     "show_name": "",
     "version": "2.18",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "net.shinyfrog.image2icon"
   },
   {
     "all_version": 0,
@@ -74,18 +80,20 @@
     "remark": "",
     "show_name": "",
     "version": "3.66.5",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "org.filezilla-project.filezilla.sandbox"
   },
   {
     "all_version": 1,
     "app_store": 1,
     "arm": 1,
-    "name": "menubarx",
+    "name": "MenubarX",
     "path": "",
     "remark": "",
     "show_name": "",
     "version": "",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.app.menubarx"
   },
   {
     "all_version": 1,
@@ -96,7 +104,8 @@
     "remark": "",
     "show_name": "",
     "version": "2023.35",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.hankinsoft.osx.sqlprostudio"
   },
   {
     "all_version": 0,
@@ -107,7 +116,8 @@
     "remark": "",
     "show_name": "",
     "version": "1.9.27",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "com.vallettaventures.Texpad"
   },
   {
     "all_version": 1,
@@ -118,7 +128,8 @@
     "remark": "",
     "show_name": "",
     "version": "100",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.bohemiancoding.sketch3.appstore"
   },
   {
     "all_version": 1,
@@ -129,7 +140,8 @@
     "remark": "",
     "show_name": "Omi录屏专家",
     "version": "1.3.8",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.mac.utility.screen.recorder"
   },
   {
     "all_version": 0,
@@ -140,7 +152,8 @@
     "remark": "",
     "show_name": "",
     "version": "4.7",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "pl.maketheweb.cleanshotx"
   },
   {
     "all_version": 0,
@@ -151,7 +164,8 @@
     "remark": "",
     "show_name": "",
     "version": "1.28.4",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "com.apphousekitchen.aldente-pro"
   },
   {
     "all_version": 0,
@@ -162,7 +176,8 @@
     "remark": "暂停支持",
     "show_name": "",
     "version": "6.0.4",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": ""
   },
   {
     "all_version": 1,
@@ -173,7 +188,8 @@
     "remark": "",
     "show_name": "",
     "version": "2.1.21",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "co.brushedtype.doppler-macos"
   },
   {
     "all_version": 0,
@@ -181,10 +197,11 @@
     "arm": 1,
     "name": "Text Scanner",
     "path": "",
-    "remark": "终端执行其二进制文件",
+    "remark": "暂停支持",
     "show_name": "",
     "version": "1.7.5",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": ""
   },
   {
     "all_version": 1,
@@ -195,7 +212,8 @@
     "remark": "",
     "show_name": "欧陆词典",
     "version": "4.6.6",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.eusoft.eudic"
   },
   {
     "all_version": 1,
@@ -206,7 +224,8 @@
     "remark": "",
     "show_name": "",
     "version": "",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.cazoobi.Blocs-5"
   },
   {
     "all_version": 1,
@@ -217,7 +236,8 @@
     "remark": "",
     "show_name": "",
     "version": "1.9.7",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.fatcatsoftware.pledpro"
   },
   {
     "all_version": 1,
@@ -228,7 +248,8 @@
     "remark": "",
     "show_name": "",
     "version": "4.7.2",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.charliemonroe.Downie-4"
   },
   {
     "all_version": 1,
@@ -239,7 +260,8 @@
     "remark": "",
     "show_name": "",
     "version": "1.8.10",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "abnerworks.Typora"
   },
   {
     "all_version": 0,
@@ -250,7 +272,8 @@
     "remark": "",
     "show_name": "",
     "version": "2.6.4",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "ws.stash.app.mac"
   },
   {
     "all_version": 0,
@@ -261,7 +284,8 @@
     "remark": "",
     "show_name": "",
     "version": "8.4.1",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "com.nektony.App-Cleaner-SIII"
   },
   {
     "all_version": 1,
@@ -272,7 +296,8 @@
     "remark": "",
     "show_name": "",
     "version": "4.1.18",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.tumult.Hype4"
   },
   {
     "all_version": 1,
@@ -283,7 +308,8 @@
     "remark": "",
     "show_name": "",
     "version": "7.8.4860",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.firecore.infuse"
   },
   {
     "all_version": 1,
@@ -294,7 +320,8 @@
     "remark": "",
     "show_name": "",
     "version": "4.5.1",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "app.kaleidoscope.v4"
   },
   {
     "all_version": 1,
@@ -305,7 +332,8 @@
     "remark": "",
     "show_name": "",
     "version": "3.5.9",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.pixelmatorteam.pixelmator.x.trial"
   },
   {
     "all_version": 0,
@@ -316,7 +344,8 @@
     "remark": "",
     "show_name": "",
     "version": "5.2.0",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "com.proxyman.NSProxy"
   },
   {
     "all_version": 0,
@@ -327,7 +356,8 @@
     "remark": "",
     "show_name": "",
     "version": "1.12",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "tech.baye.servercat"
   },
   {
     "all_version": 1,
@@ -338,7 +368,8 @@
     "remark": "",
     "show_name": "",
     "version": "3.8.6",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "io.coressh.tunnel-direct"
   },
   {
     "all_version": 1,
@@ -349,7 +380,8 @@
     "remark": "借鉴 Qiuchenly",
     "show_name": "",
     "version": "17.0.6",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.navicat.NavicatPremium"
   },
   {
     "all_version": 1,
@@ -360,7 +392,8 @@
     "remark": "",
     "show_name": "",
     "version": "3.11.10",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.charliemonroe.Permute-3"
   },
   {
     "all_version": 1,
@@ -371,7 +404,8 @@
     "remark": "",
     "show_name": "",
     "version": "2.9.12",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.fuelcollective.eon"
   },
   {
     "all_version": 1,
@@ -382,7 +416,8 @@
     "remark": "",
     "show_name": "",
     "version": "2.9.14",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.charliemonroe.UctoX-2"
   },
   {
     "all_version": 1,
@@ -393,7 +428,8 @@
     "remark": "",
     "show_name": "",
     "version": "1.3",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.charliemonroe.Rottenwood"
   },
   {
     "all_version": 1,
@@ -404,7 +440,8 @@
     "remark": "免登录 有几个功能不能用",
     "show_name": "",
     "version": "7.0.4",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "app.judo.Judo"
   },
   {
     "all_version": 1,
@@ -415,7 +452,8 @@
     "remark": "",
     "show_name": "",
     "version": "4.0.13",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.araeliumgroup.querious"
   },
   {
     "all_version": 1,
@@ -423,21 +461,23 @@
     "arm": 1,
     "name": "ForkLift",
     "path": "",
-    "remark": "",
+    "remark": "暂停支持",
     "show_name": "",
     "version": "4.1.5",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": ""
   },
   {
-    "all_version": 1,
+    "all_version": 0,
     "app_store": 1,
     "arm": 1,
     "name": "CleanMyMac-MAS",
     "path": "",
     "remark": "不包括状态栏按钮",
     "show_name": "",
-    "version": "4.15.4",
-    "x86": 1
+    "version": "4.*",
+    "x86": 1,
+    "bundle_id": "com.macpaw.CleanMyMac-mas"
   },
   {
     "all_version": 0,
@@ -448,7 +488,8 @@
     "remark": "",
     "show_name": "",
     "version": "49 (20463)",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "com.ittybittyapps.Reveal2"
   },
   {
     "all_version": 1,
@@ -459,7 +500,8 @@
     "remark": "",
     "show_name": "",
     "version": "6.5.4",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.houdah.HoudahSpot4"
   },
   {
     "all_version": 1,
@@ -470,7 +512,8 @@
     "remark": "https://heyfocus.com",
     "show_name": "",
     "version": "2.0.8",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "BradJasper.focus"
   },
   {
     "all_version": 1,
@@ -481,7 +524,8 @@
     "remark": "思维导图软件",
     "show_name": "",
     "version": "2.4.1",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.modelmakertools.simplemindmacstd"
   },
   {
     "all_version": 1,
@@ -492,7 +536,8 @@
     "remark": "音乐软件",
     "show_name": "",
     "version": "5.8",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.leshko.flap.mac"
   },
   {
     "all_version": 1,
@@ -503,7 +548,8 @@
     "remark": "https://apps.apple.com/gb/app/pdf-editor-for-adobe-pdf-file/id6469578160",
     "show_name": "",
     "version": "1.4.2",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "ah.pdf"
   },
   {
     "all_version": 1,
@@ -514,7 +560,8 @@
     "remark": "https://www.notebooksapp.com/mac/",
     "show_name": "",
     "version": "3.6.1",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.aschmid.notebooks2"
   },
   {
     "all_version": 1,
@@ -525,7 +572,8 @@
     "remark": "每次打开都会提示购买，忽略就行",
     "show_name": "",
     "version": "10.8.1",
-    "x86": 1
+    "x86": 1,
+    "bundle_id": "com.apple.FinalCutTrial"
   },
   {
     "all_version": 1,
@@ -536,7 +584,8 @@
     "remark": "输入任意激活信息点激活",
     "show_name": "",
     "version": "1.8.25",
-    "x86": 0
+    "x86": 0,
+    "bundle_id": "app.mp3tag.Mp3tag"
   },
   {
     "all_version": 1,
@@ -546,7 +595,32 @@
     "path": "",
     "remark": "",
     "show_name": "",
-    "version": 35.4,
-    "x86": 1
+    "version": "35.4",
+    "x86": 1,
+    "bundle_id": "com.ulyssesapp.mac"
+  },
+  {
+    "all_version": 1,
+    "app_store": 0,
+    "arm": 1,
+    "name": "Logic Pro",
+    "path": "",
+    "remark": "",
+    "show_name": "",
+    "version": "11.0.1",
+    "x86": 1,
+    "bundle_id": "com.apple.logic10"
+  },
+  {
+    "all_version": 1,
+    "app_store": 1,
+    "arm": 1,
+    "name": "VideoConverterX",
+    "path": "",
+    "remark": "",
+    "show_name": "即刻转换",
+    "version": "1.3.1",
+    "x86": 1,
+    "bundle_id": "com.omi.utility.video.converter"
   }
 ]
