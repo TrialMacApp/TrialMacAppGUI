@@ -3,6 +3,14 @@
     <channel>
         <title>TrialMacAppGUI</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Thu, 31 Oct 2024 11:12:49 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TrialMacApp/TrialMacApp/releases/download/1.2-4/TrialMacAppGUI.tar" length="7765504" type="application/octet-stream" sparkle:edSignature="VMUwgk8+nJ1Jppu1KioEujQv4NbmvIqQyeytUmWjksDU5cwHezSSBe+CAoSBNPEESOg1LWGkOkhwNXS630nDAQ=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Mon, 28 Oct 2024 14:10:48 +0800</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/TrialMacApp/TrialMacApp/releases/download/1.0-2/TrialMacAppGUI.zip" length="3998057" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 24 Oct 2024 10:26:07 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TrialMacApp/TrialMacApp/releases/download/1.1/TrialMacAppGUI.zip" length="4001813" type="application/octet-stream" sparkle:edSignature="ryyDOQxOjYrSfWl/1O4usIiNmAZNqVkoXzB3c8U2RCPk98d4HxrKUPm8QE/5liCm0hRrM7nIOMxxGAkq3TpqCQ=="/>
         </item>
     </channel>
 </rss>
