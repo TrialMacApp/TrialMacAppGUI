@@ -1,4 +1,4 @@
-## 新版 GUI 工具已经上线 点击右侧 Releases 下载
+## 新版 GUI 工具已经上线 [点我下载](https://github.com/TrialMacApp/TrialMacApp/releases/latest)
 
 > 整体 UI 设计完全来自 https://github.com/wibus-wee/InjectGUI 非常感谢此项目
 
