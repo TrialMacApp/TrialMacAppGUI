@@ -4,10 +4,6 @@
 
 ![](/img/1.png)
 
-![](/img/5.png)
-
-![](/img/6.png)
-
 ## 项目简介
 
 使用 [Dobby](https://github.com/jmpews/Dobby) 制作的 macOS 环境动态注入库，用来更改部分软件的试用逻辑。
