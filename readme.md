@@ -18,15 +18,14 @@
 
 ## 注意
 
-```diff
-+ 已支持x86和arm双端，x86测试不完全
-
-+ 这是完全免费的 不用花一毛钱
-
-+ app有helper的先装helper，我还没有对helper做同一处理，例如stash、Macs Fan Control 等软件
-
-+ 我的试用也不一定很全面，有问题有bug就提issue
-```
+> [!NOTE]
+> 已支持 x86 和 arm 双端，x86 测试不完全
+>
+> 这是完全免费的 不用花一毛钱
+>
+> app 有 helper 的先装 helper，我还没有对 helper 做同一处理，例如 stash、Macs Fan Control 等软件
+>
+> 我的试用也不一定很全面，有问题有 bug 就提 issue
 
 ## 感谢以下项目
 
